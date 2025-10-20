@@ -14,5 +14,5 @@ Building footprints and attributes from [Esri Hong Kong Open Data Portal](https:
 
 ## Citation
 If you use this repository in your research, please cite:
-> Mehdi, S., et al. (2025). *Optimal Urban Zones for GNSS-Based Troposphere Estimation using Urban Raytracing*. GPS Solutions (under review).
+> Mehdi, S., et al. (2025). *Identifying Healthy Urban Zones for GNSS-Based Tropospheric Delay Estimation Using 3D Ray-Tracing (under review).
 
