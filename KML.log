@@ -1,0 +1,270 @@
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Current FME version: FME 2024.2.0.0 (20241102 - Build 24783 - WIN64)
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|System Time: 20251003074703 UTC
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Form (floating)
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Temporary License: 349 days left.
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Machine host name is: Saqib
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|OS Locale Name     : en_US
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME API version: '4.0 20240212'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME/'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'KML.fmw'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2024.2.0.0'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 26100)
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Platform: WIN64
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|System Status: 298.26 GB of disk space available in the FME temporary folder (C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wbrun_1759477594995_24204\fmetmp_0)
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|System Status: 63.82 GB of physical memory available
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|System Status: 255.27 GB of virtual memory available
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|START - ProcessID: 34688, peak process memory usage: 42680 kB, current process memory usage: 42676 kB
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME\wb-xlate-1759477620775_24204' `--FME_LAUNCH_VIEWER_APP' `WORKBENCH' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LOG_FILENAME' `$(WORKSPACE_NAME).log' `LogCountServerName' `49372' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `49884'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\Saqib.Mehdi\AppData\Roaming\Safe Software\FME\'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\Saqib.Mehdi\Documents\FME\Formats
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\Saqib.Mehdi\AppData\Roaming\Safe Software\FME\Packages\24783-win64\transformers;C:\Program Files\FME\transformers;C:\Users\Saqib.Mehdi\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\Saqib.Mehdi\Documents\FME\CoordinateSystems
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\Saqib.Mehdi\Documents\FME\CoordinateSystemExceptions
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\Saqib.Mehdi\Documents\FME\CoordinateSystemGridOverrides
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\Saqib.Mehdi\Documents\FME\CsmapTransformationExceptions
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\Saqib.Mehdi\Documents\FME\TransformerCategories
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wbrun_1759477594995_24204\fmetmp_0', set from environment variable `FME_TEMP'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 191.45 GB
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 143.59 GB
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Creating writer for format: 
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Creating reader for format: 
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding SHAPEFILE Reader with keyword SHAPEFILE_1
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRIASCIIGRID Reader with keyword ESRIASCIIGRID_1
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding SHAPEFILE Reader with keyword SHAPEFILE_3
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Creating reader for format: Esri Shapefile
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SHAPEFILE'
+2025-10-03 09:47:03|   0.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader SHAPEFILE_1[SHAPEFILE] set to `EPSG:4326'
+2025-10-03 09:47:03|   0.1|  0.1|INFORM|Coordinate System `EPSG:4326' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Loaded module 'SHAPEFILE' from file 'C:\Program Files\FME\plugins/shapefile_dbase.dll'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|FME API version of module 'shapefile_dbase' matches current internal version (4.0 20240212)
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|SHAPEFILE reader: Opening dataset 'C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME\Buildings_in_Hong_Kong.shp'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|The OGC definition of the FME coordinate system '_LL-WGS84_0' is 'GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Shapefile reader: Reading dataset with encoding 'UTF-8' as determined by 'Codepage File'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Using MultiWriter with keyword `PRIMARY_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20240212)
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Loaded module 'VectorOnRasterOverlayFactory' from file 'C:\Program Files\FME\plugins/VectorOnRasterOverlayFactory.dll'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|FME API version of module 'VectorOnRasterOverlayFactory' matches current internal version (4.0 20240212)
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|Loaded module 'FeatureJoinerFactory' from file 'C:\Program Files\FME\plugins/FeatureJoinerFactory.dll'
+2025-10-03 09:47:03|   0.1|  0.0|INFORM|FME API version of module 'FeatureJoinerFactory' matches current internal version (4.0 20240212)
+2025-10-03 09:47:04|   0.1|  0.0|INFORM|Loaded module 'ClipperFactory' from file 'C:\Program Files\FME\plugins/ClipperFactory.dll'
+2025-10-03 09:47:04|   0.1|  0.0|INFORM|FME API version of module 'ClipperFactory' matches current internal version (4.0 20240212)
+2025-10-03 09:47:04|   0.2|  0.1|WARN  |NOT changing coordinate system of reader identified by keyword `SHAPEFILE_1' from `EPSG:4326' to `_LL-WGS84_0' -- mapping file setting of `EPSG:4326' overrides coordinate system `_LL-WGS84_0' read from file
+2025-10-03 09:47:04|   0.2|  0.0|INFORM|FFS writer: Writing 409608 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Buildings_in_Hong_Kong -1 2 -1  0  95cf732bcd409130ebad08067773c36fa976c991.fts'
+2025-10-03 09:47:06|   2.3|  2.1|INFORM|Spatial Index: Adding 409608 features
+2025-10-03 09:47:08|   4.2|  1.9|WARN  |Reprojector_to2326: Ignoring source coordinate system 'EPSG:4326' in favor of feature coordinate system. This warning will not be repeated
+2025-10-03 09:47:08|   4.2|  0.0|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'EPSG:4326' -> 'EPSG:2326', and is not guaranteed to remain the same in future releases of FME
+2025-10-03 09:47:08|   4.2|  0.0|INFORM|Reprojector: Using transformation `HongKong80b_to_WGS84,Inverse(Seven Parameter,EPSG:1825)' when reprojecting from EPSG:4326 to EPSG:2326
+2025-10-03 09:47:08|   4.2|  0.0|INFORM|FFS writer: Writing 409608 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Reprojector_to2326 -1 48 fo 0 REPROJECTED  0  1ffc91f84ce2b6a2a309e57e7011f247c306d5f1.fts'
+2025-10-03 09:47:13|   9.2|  5.0|INFORM|FFS writer: 390000 of 409608 features written
+2025-10-03 09:47:13|   9.4|  0.2|INFORM|FFS writer: 409608 of 409608 features written
+2025-10-03 09:47:13|   9.4|  0.0|INFORM|Spatial Index: Adding 409608 features
+2025-10-03 09:47:18|  14.4|  5.0|INFORM|Spatial Index: Added 409608 of 409608 features
+2025-10-03 09:47:19|  15.5|  1.1|INFORM|FFS writer: Writing 55742 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 0 PASSED  0  4c15707b9607d4db76de0205c3ce7b6ad3dc325a.fts'
+2025-10-03 09:47:19|  15.6|  0.1|INFORM|Spatial Index: Adding 55742 features
+2025-10-03 09:47:19|  15.7|  0.1|INFORM|FFS writer: Writing 44258 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 1 FAILED  0  0c064b7ee0fe9da71aaa2aadd782777caaba5cee.fts'
+2025-10-03 09:47:19|  15.7|  0.0|INFORM|Spatial Index: Adding 44258 features
+2025-10-03 09:47:20|  16.7|  1.0|INFORM|FFS writer: Writing 46467 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 0 PASSED  0  4c15707b9607d4db76de0205c3ce7b6ad3dc325a_1.fts'
+2025-10-03 09:47:21|  16.8|  0.1|INFORM|Spatial Index: Adding 46467 features
+2025-10-03 09:47:21|  16.8|  0.0|INFORM|FFS writer: Writing 53533 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 1 FAILED  0  0c064b7ee0fe9da71aaa2aadd782777caaba5cee_1.fts'
+2025-10-03 09:47:21|  16.9|  0.1|INFORM|Spatial Index: Adding 53533 features
+2025-10-03 09:47:22|  18.1|  1.2|INFORM|FFS writer: Writing 58599 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 0 PASSED  0  4c15707b9607d4db76de0205c3ce7b6ad3dc325a_2.fts'
+2025-10-03 09:47:22|  18.2|  0.1|INFORM|Spatial Index: Adding 58599 features
+2025-10-03 09:47:22|  18.3|  0.1|INFORM|FFS writer: Writing 41401 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 1 FAILED  0  0c064b7ee0fe9da71aaa2aadd782777caaba5cee_2.fts'
+2025-10-03 09:47:22|  18.3|  0.0|INFORM|Spatial Index: Adding 41401 features
+2025-10-03 09:47:24|  19.8|  1.5|INFORM|FFS writer: Writing 68401 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 0 PASSED  0  4c15707b9607d4db76de0205c3ce7b6ad3dc325a_3.fts'
+2025-10-03 09:47:24|  19.9|  0.1|INFORM|Spatial Index: Adding 68401 features
+2025-10-03 09:47:24|  19.9|  0.0|INFORM|FFS writer: Writing 31599 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 1 FAILED  0  0c064b7ee0fe9da71aaa2aadd782777caaba5cee_3.fts'
+2025-10-03 09:47:24|  20.0|  0.1|INFORM|Spatial Index: Adding 31599 features
+2025-10-03 09:47:24|  20.1|  0.1|INFORM|FFS writer: Writing 6354 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 0 PASSED  0  4c15707b9607d4db76de0205c3ce7b6ad3dc325a_4.fts'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Spatial Index: Adding 6354 features
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|FFS writer: Writing 3254 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_Tester_onlyExisitingAndNonZeroHe -1 5 fo 1 FAILED  0  0c064b7ee0fe9da71aaa2aadd782777caaba5cee_4.fts'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Spatial Index: Adding 3254 features
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Creating reader for format: Esri ASCII Grid
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `ESRIASCIIGRID'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRIASCIIGRID_1[ESRIASCIIGRID] set to `EPSG:2326'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Coordinate System `EPSG:2326' parameters: CS_NAME=`HongKong80b.GridSystem' DESC_NM=`Hong Kong 1980 Grid System' DT_NAME=`HongKong80b' EPSG_QD=`-1' GROUP=`ASIA' MAP_SCL=`1' MAX_LAT=`22.833333333333332' MAX_LNG=`114.71666666666667' MIN_LAT=`21.866666666666667' MIN_LNG=`113.55' ORG_LAT=`22.312133333333335' PARM1=`114.17855555555556' PROJ=`TM' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.3, 2326 [Large scale topographic mapping, cadastr]' UNIT=`Meter' X_OFF=`836694.05' Y_OFF=`819069.8' ZERO_X=`0.0001' ZERO_Y=`0.0001'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Loaded module 'ESRIASCIIGRID' from file 'C:\Program Files\FME\plugins/ESRIASCIIGRID.dll'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|FME API version of module 'ESRIASCIIGRID' matches current internal version (4.0 20240212)
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Esri ASCII Grid Plugin: Opening the Esri Ascii Grid Reader on file `C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME\Whole_HK_DTM_5m.asc'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Creating reader for format: Esri Shapefile
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SHAPEFILE'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader SHAPEFILE_3[SHAPEFILE] set to `EPSG:4326'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Coordinate System `EPSG:4326' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|SHAPEFILE reader: Opening dataset 'C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME\Tram_Stop_Locations_in_Hong_Kong.shp'
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Shapefile reader: Reading dataset with encoding 'UTF-8' as determined by 'Codepage File'
+2025-10-03 09:47:24|  20.1|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `SHAPEFILE_3' from `EPSG:4326' to `_LL-WGS84_0' -- mapping file setting of `EPSG:4326' overrides coordinate system `_LL-WGS84_0' read from file
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Tram_Stop_Locations_in_Hong_Kong Feature Recorder -1 2147549265 (RecorderFactory): Splitting bulk features into individual features
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Bufferer_2_2DBuffering (PolygonDissolveFactory): Buffering feature number: 1
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 409726 features from 3 readers
+2025-10-03 09:47:24|  20.1|  0.0|INFORM|Emptying factory pipeline
+2025-10-03 09:47:24|  20.1|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 409726 input feature(s), wrote 409726 output feature(s): 409726 matched merge filters, 409726 were routed to output, 0 could not be routed.
+2025-10-03 09:47:24|  20.1|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2025-10-03 09:47:24|  20.1|  0.0|STATS |ESRIASCIIGRID_ESRIASCIIGRID_1 Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2025-10-03 09:47:24|  20.1|  0.0|STATS |Buildings_in_Hong_Kong_SHAPEFILE_1 Splitter (TeeFactory): Cloned 409608 input feature(s) into 409608 output feature(s)
+2025-10-03 09:47:24|  20.1|  0.0|STATS |Tram_Stop_Locations_in_Hong_Kong_SHAPEFILE_3 Splitter (TeeFactory): Cloned 117 input feature(s) into 117 output feature(s)
+2025-10-03 09:47:24|  20.1|  0.0|STATS |Reprojector_to2326_2 (TeeFactory): Cloned 117 input feature(s) into 117 output feature(s)
+2025-10-03 09:47:25|  21.4|  1.3|STATS |Reprojector_to2326 (TeeFactory): Cloned 409608 input feature(s) into 409608 output feature(s)
+2025-10-03 09:47:25|  21.4|  0.0|STATS |Tester_onlyExisitingAndNonZeroHeightBuildings (TestFactory): Tested 409608 input feature(s) -- 235563 feature(s) passed and 174045 feature(s) failed
+2025-10-03 09:47:25|  21.4|  0.0|INFORM|SpatialFilter_2 (SpatialFilterFactory): Processed 'Candidate' 1 / 235563
+2025-10-03 09:47:25|  21.5|  0.1|INFORM|FFS writer: Writing 55742 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_SpatialFilter_2 -1 65 fo 1 FAILED  0  0e54ba8be28af4f96ed1bcbedaa6d379197e4383.fts'
+2025-10-03 09:47:25|  21.5|  0.0|INFORM|Spatial Index: Adding 55742 features
+2025-10-03 09:47:25|  21.6|  0.1|INFORM|FFS writer: Writing 46467 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_SpatialFilter_2 -1 65 fo 1 FAILED  0  0e54ba8be28af4f96ed1bcbedaa6d379197e4383_1.fts'
+2025-10-03 09:47:26|  21.7|  0.1|INFORM|Spatial Index: Adding 46467 features
+2025-10-03 09:47:26|  21.7|  0.0|INFORM|FFS writer: Writing 2831 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_SpatialFilter_2 -1 65 fo 1 FAILED  0  0e54ba8be28af4f96ed1bcbedaa6d379197e4383_2.fts'
+2025-10-03 09:47:26|  21.7|  0.0|INFORM|Spatial Index: Adding 2831 features
+2025-10-03 09:47:26|  21.9|  0.2|INFORM|Spatial Index: Adding 49267 features
+2025-10-03 09:47:26|  21.9|  0.0|INFORM|Spatial Index: Adding 6501 features
+2025-10-03 09:47:26|  21.9|  0.0|INFORM|FFS writer: Writing 6501 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_CenterPointReplacer -1 23 fo 0 POINT  0  55ea3e9fe49c077dbb2d5fb734b1d88659191fbb.fts'
+2025-10-03 09:47:26|  21.9|  0.0|INFORM|Spatial Index: Adding 6501 features
+2025-10-03 09:47:26|  21.9|  0.0|INFORM|PointOnRasterValueExtractor (VectorOnRasterOverlayFactory): Splitting bulk features into individual features
+2025-10-03 09:47:31|  26.9|  5.0|INFORM|Caching raster band data: 36.36% complete
+2025-10-03 09:47:36|  31.8|  4.9|INFORM|Caching raster band data: 70.55% complete
+2025-10-03 09:47:40|  35.5|  3.7|INFORM|Caching raster band data: 100% complete
+2025-10-03 09:47:40|  35.5|  0.0|INFORM|ListExploder (ElementFactory): Processed 2 elements
+2025-10-03 09:47:40|  35.9|  0.4|INFORM|SpatialFilter_2 (SpatialFilterFactory): Processed 'Candidate' 160809 / 235563
+2025-10-03 09:47:40|  35.9|  0.0|INFORM|SpatialFilter_2_FAILED Feature Recorder -1 2147680321 (RecorderFactory): Splitting bulk features into individual features
+2025-10-03 09:47:40|  36.1|  0.2|INFORM|Spatial Index: Adding 61643 features
+2025-10-03 09:47:40|  36.1|  0.0|INFORM|Spatial Index: Adding 6752 features
+2025-10-03 09:47:40|  36.2|  0.1|INFORM|FFS writer: Writing 6752 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_CenterPointReplacer -1 23 fo 0 POINT  0  55ea3e9fe49c077dbb2d5fb734b1d88659191fbb_1.fts'
+2025-10-03 09:47:40|  36.2|  0.0|INFORM|Spatial Index: Adding 6752 features
+2025-10-03 09:47:40|  36.2|  0.0|INFORM|PointOnRasterValueExtractor (VectorOnRasterOverlayFactory): Splitting bulk features into individual features
+2025-10-03 09:47:41|  36.5|  0.3|INFORM|SpatialFilter_2 (SpatialFilterFactory): Processed 'Candidate' 235563 / 235563
+2025-10-03 09:47:41|  36.5|  0.0|INFORM|FFS writer: Writing 6354 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_SpatialFilter_2 -1 65 fo 1 FAILED  0  0e54ba8be28af4f96ed1bcbedaa6d379197e4383_5.fts'
+2025-10-03 09:47:41|  36.5|  0.0|INFORM|Spatial Index: Adding 6354 features
+2025-10-03 09:47:41|  36.5|  0.0|STATS |SpatialFilter_2 (SpatialFilterFactory): Total: Processed 235564 input feature(s): 1 'Filter' feature(s) and 235563 'Candidate' feature(s). 13253 feature(s) PASSED
+2025-10-03 09:47:41|  36.5|  0.0|STATS |SpatialFilter_2 PASSED Splitter (TeeFactory): Cloned 13253 input feature(s) into 26506 output feature(s)
+2025-10-03 09:47:41|  36.5|  0.0|STATS |CenterPointReplacer (TeeFactory): Cloned 13253 input feature(s) into 13253 output feature(s)
+2025-10-03 09:47:41|  36.5|  0.0|STATS |CenterPointReplacer_router (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2025-10-03 09:47:41|  36.5|  0.0|STATS |CenterPointReplacer_outputter (TestFactory): Tested 13253 input feature(s) -- 0 feature(s) passed and 13253 feature(s) failed
+2025-10-03 09:47:41|  36.5|  0.0|INFORM|PointOnRasterValueExtractor (VectorOnRasterOverlayFactory): Total of 13253 point feature(s) processed
+2025-10-03 09:47:41|  36.5|  0.0|STATS |ListExploder (ElementFactory): Split out 13253 list elements from 13253 input features
+2025-10-03 09:47:41|  36.5|  0.0|STATS |Tester (TestFactory): Tested 13253 input feature(s) -- 13253 feature(s) passed and 0 feature(s) failed
+2025-10-03 09:47:41|  36.6|  0.1|INFORM|FFS writer: Writing 13253 feature(s) to file 'C:\Users\SAQIB~1.MEH\AppData\Local\Temp\wb-cache-KML-fbGTMk\Main_FeatureJoiner -1 29 fo 0 JOINED  0  1e6c46121e8a78b11a40cb983325288393752fa8.fts'
+2025-10-03 09:47:41|  36.6|  0.0|INFORM|Spatial Index: Adding 13253 features
+2025-10-03 09:47:41|  36.8|  0.2|INFORM|... Last line repeated 2 times ...
+2025-10-03 09:47:41|  36.8|  0.0|INFORM|AttributeManager_2_OUTPUT Feature Recorder -1 2147614759 (RecorderFactory): Splitting bulk features into individual features
+2025-10-03 09:47:41|  36.9|  0.1|INFORM|Creating writer for format: OGC / Google KML
+2025-10-03 09:47:41|  36.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `OGCKML'
+2025-10-03 09:47:41|  36.9|  0.0|INFORM|Loaded module 'OGCKML' from file 'C:\Program Files\FME\plugins/KML21.dll'
+2025-10-03 09:47:41|  36.9|  0.0|INFORM|FME API version of module 'KML21' matches current internal version (4.0 20240212)
+2025-10-03 09:47:41|  36.9|  0.0|INFORM|FME Configuration: Destination coordinate system set to `EPSG:2326'
+2025-10-03 09:47:41|  36.9|  0.0|INFORM|Coordinate System `EPSG:2326' parameters: CS_NAME=`HongKong80b.GridSystem' DESC_NM=`Hong Kong 1980 Grid System' DT_NAME=`HongKong80b' EPSG_QD=`-1' GROUP=`ASIA' MAP_SCL=`1' MAX_LAT=`22.833333333333332' MAX_LNG=`114.71666666666667' MIN_LAT=`21.866666666666667' MIN_LNG=`113.55' ORG_LAT=`22.312133333333335' PARM1=`114.17855555555556' PROJ=`TM' QUAD=`1' SCL_RED=`1' SOURCE=`EPSG, V6.3, 2326 [Large scale topographic mapping, cadastr]' UNIT=`Meter' X_OFF=`836694.05' Y_OFF=`819069.8' ZERO_X=`0.0001' ZERO_Y=`0.0001'
+2025-10-03 09:47:41|  36.9|  0.0|INFORM|Writer `OGCKML_1' of type `OGCKML' using group definition keyword `OGCKML_1_DEF'
+2025-10-03 09:47:41|  37.0|  0.1|INFORM|KML: Initializing KML21 preferences...
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|KML: Initializing dataset `C:\Users\Saqib.Mehdi\Desktop\2nd_Data\FME\output\HK2.kml'...
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|KML: Loading Pipelines...
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|KML: Loading GroundOverlay Pyramider Pipeline: `C:\Program Files\FME\plugins\kml21\fmegroundoverlaypyramider.fmi' ...
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|Loaded module 'RasterPyramidFactory' from file 'C:\Program Files\FME\plugins/RasterPyramidFactory.dll'
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|FME API version of module 'RasterPyramidFactory' matches current internal version (4.0 20240212)
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|Loaded module 'CheckpointRaster_func' from file 'C:\Program Files\FME\plugins/CheckpointRaster_func.dll'
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|FME API version of module 'CheckpointRaster_func' matches current internal version (4.0 20240212)
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|Loaded module 'RasterSubsetFactory' from file 'C:\Program Files\FME\plugins/RasterSubsetFactory.dll'
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|FME API version of module 'RasterSubsetFactory' matches current internal version (4.0 20240212)
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME\plugins/PythonFactory.dll'
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (4.0 20240212)
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|The workspace does not contain user Python. FME will attempt to use a Python 3.12+ interpreter
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|Using Python interpreter from `C:\Program Files\FME\fmepython312\python312.dll' with PYTHONHOME `C:\Program Files\FME\fmepython312'
+2025-10-03 09:47:41|  37.0|  0.0|INFORM|Python version 3.12 loaded successfully
+2025-10-03 09:47:42|  37.0|  0.0|INFORM|KML: Pipelines loaded
+2025-10-03 09:47:42|  37.1|  0.1|INFORM|Spatial Index: Adding 13251 features
+2025-10-03 09:47:42|  37.3|  0.2|INFORM|... Last line repeated 3 times ...
+2025-10-03 09:47:42|  37.3|  0.0|INFORM|OGCKML writer: Splitting bulk features into individual features
+2025-10-03 09:47:42|  37.3|  0.0|INFORM|KML: Created `500' KML nodes.
+2025-10-03 09:47:42|  37.3|  0.0|INFORM|KML: Created `1000' KML nodes.
+2025-10-03 09:47:42|  37.4|  0.1|INFORM|KML: Created `1500' KML nodes.
+2025-10-03 09:47:42|  37.4|  0.0|INFORM|KML: Created `2000' KML nodes.
+2025-10-03 09:47:42|  37.4|  0.0|INFORM|KML: Created `2500' KML nodes.
+2025-10-03 09:47:42|  37.5|  0.1|INFORM|KML: Created `3000' KML nodes.
+2025-10-03 09:47:42|  37.5|  0.0|INFORM|KML: Created `3500' KML nodes.
+2025-10-03 09:47:42|  37.5|  0.0|INFORM|KML: Created `4000' KML nodes.
+2025-10-03 09:47:42|  37.5|  0.0|INFORM|KML: Created `4500' KML nodes.
+2025-10-03 09:47:42|  37.6|  0.1|INFORM|KML: Created `5000' KML nodes.
+2025-10-03 09:47:42|  37.6|  0.0|INFORM|KML: Created `5500' KML nodes.
+2025-10-03 09:47:42|  37.7|  0.1|INFORM|KML: Created `6000' KML nodes.
+2025-10-03 09:47:42|  37.7|  0.0|INFORM|KML: Created `6500' KML nodes.
+2025-10-03 09:47:42|  37.7|  0.0|INFORM|KML: Created `7000' KML nodes.
+2025-10-03 09:47:42|  37.8|  0.1|INFORM|KML: Created `7500' KML nodes.
+2025-10-03 09:47:42|  37.8|  0.0|INFORM|KML: Created `8000' KML nodes.
+2025-10-03 09:47:42|  37.8|  0.0|INFORM|KML: Created `8500' KML nodes.
+2025-10-03 09:47:42|  37.9|  0.1|INFORM|KML: Created `9000' KML nodes.
+2025-10-03 09:47:43|  37.9|  0.0|INFORM|KML: Created `9500' KML nodes.
+2025-10-03 09:47:43|  37.9|  0.0|INFORM|KML: Created `10000' KML nodes.
+2025-10-03 09:47:43|  38.0|  0.1|INFORM|KML: Created `10500' KML nodes.
+2025-10-03 09:47:43|  38.0|  0.0|INFORM|KML: Created `11000' KML nodes.
+2025-10-03 09:47:43|  38.0|  0.0|INFORM|KML: Created `11500' KML nodes.
+2025-10-03 09:47:43|  38.1|  0.1|INFORM|KML: Created `12000' KML nodes.
+2025-10-03 09:47:43|  38.1|  0.0|INFORM|KML: Created `12500' KML nodes.
+2025-10-03 09:47:43|  38.2|  0.1|INFORM|KML: Created `13000' KML nodes.
+2025-10-03 09:47:43|  38.2|  0.0|STATS |FeatureJoiner JOINED Splitter (TeeFactory): Cloned 13253 input feature(s) into 26506 output feature(s)
+2025-10-03 09:47:43|  38.2|  0.0|STATS |3DForcer_2 (TeeFactory): Cloned 13253 input feature(s) into 13253 output feature(s)
+2025-10-03 09:47:43|  38.2|  0.0|STATS |3DForcer_2_Rejector (TestFactory): Tested 13253 input feature(s) -- 0 feature(s) passed and 13253 feature(s) failed
+2025-10-03 09:47:43|  38.2|  0.0|STATS |Extruder_Rejector (ExecuteFunctionFactory): Executed FME Functions on 13253 input feature(s) -- 13253 feature(s) completed and 0 feature(s) rejected
+2025-10-03 09:47:43|  38.2|  0.0|STATS |AttributeRemover (TeeFactory): Cloned 13253 input feature(s) into 13253 output feature(s)
+2025-10-03 09:47:43|  38.2|  0.0|STATS |KMLPropertySetter (TeeFactory): Cloned 13253 input feature(s) into 13253 output feature(s)
+2025-10-03 09:47:43|  38.2|  0.0|INFORM|Bufferer_2DBuffering (PolygonDissolveFactory): Buffering feature number: 1
+2025-10-03 09:47:43|  38.2|  0.0|INFORM|Clipper (ClipperFactory): Clipping.  Processed 1 candidates so far.
+2025-10-03 09:47:54|  49.0| 10.8|INFORM|Formed 82000 features (lines and polygons)
+2025-10-03 09:47:58|  53.4|  4.4|INFORM|Sorting 675433 features...
+2025-10-03 09:48:01|  56.2|  2.8|INFORM|Constructing donuts from 675433 features...
+2025-10-03 09:48:03|  57.5|  1.3|INFORM|Spatial Index: Adding 675433 features
+2025-10-03 09:48:03|  58.2|  0.7|INFORM|Spatial Index: Adding 100000 features
+2025-10-03 09:48:05|  59.9|  1.7|INFORM|... Last line repeated 5 times ...
+2025-10-03 09:48:05|  59.9|  0.0|INFORM|Spatial Index: Adding 75433 features
+2025-10-03 09:48:10|  64.4|  4.5|STATS |RasterToPolygonCoercer (RasterSegmentationFactory): Formed 675433 output feature(s) from 1 input feature(s)
+2025-10-03 09:48:10|  64.4|  0.0|STATS |RasterToPolygonCoercer POLYGONS Splitter (TeeFactory): Cloned 675433 input feature(s) into 1350866 output feature(s)
+2025-10-03 09:48:10|  64.4|  0.0|STATS |3DForcer (TeeFactory): Cloned 675433 input feature(s) into 675433 output feature(s)
+2025-10-03 09:48:10|  64.4|  0.0|STATS |3DForcer_Rejector (TestFactory): Tested 675433 input feature(s) -- 0 feature(s) passed and 675433 feature(s) failed
+2025-10-03 09:48:15|  69.7|  5.3|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 688686 input feature(s), wrote 688686 output feature(s): 0 matched merge filters, 688686 were routed to output, 0 could not be routed.
+2025-10-03 09:48:15|  69.7|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 675433 input feature(s) into 0 output feature(s)
+2025-10-03 09:48:15|  69.7|  0.0|INFORM|KML: Writing dataset to filesystem...
+2025-10-03 09:48:15|  69.7|  0.0|INFORM|CS-MAP Reprojector: Transformation will be automatically selected for 'EPSG:2326' -> 'LL-WGS84', and is not guaranteed to remain the same in future releases of FME
+2025-10-03 09:48:15|  69.7|  0.0|INFORM|Reprojector: Using transformation `HongKong80b_to_WGS84,Forward(Seven Parameter,EPSG:1825)' when reprojecting from EPSG:2326 to LL-WGS84
+2025-10-03 09:48:18|  72.7|  3.0|INFORM|KML: Finished writing dataset to filesystem
+2025-10-03 09:48:18|  72.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|INFORM|Feature output statistics for `OGCKML' writer using keyword `OGCKML_1':
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |                               Features Written
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |NewFeatureType                                                           13253
+2025-10-03 09:48:18|  72.7|  0.0|STATS |==============================================================================
+2025-10-03 09:48:18|  72.7|  0.0|STATS |Total Features Written                                                   13253
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |                            Features Read Summary
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |Buildings_in_Hong_Kong                                                  409608
+2025-10-03 09:48:18|  72.7|  0.0|STATS |ESRIASCIIGRID                                                                1
+2025-10-03 09:48:18|  72.7|  0.0|STATS |Tram_Stop_Locations_in_Hong_Kong                                           117
+2025-10-03 09:48:18|  72.7|  0.0|STATS |==============================================================================
+2025-10-03 09:48:18|  72.7|  0.0|STATS |Total Features Read                                                     409726
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |                           Features Written Summary
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|STATS |NewFeatureType                                                           13253
+2025-10-03 09:48:18|  72.7|  0.0|STATS |==============================================================================
+2025-10-03 09:48:18|  72.7|  0.0|STATS |Total Features Written                                                   13253
+2025-10-03 09:48:18|  72.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~                                                                             ~-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~                                                                             ~-
+2025-10-03 09:48:18|  72.7|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2025-10-03 09:48:18|  72.7|  0.0|INFORM|Translation was SUCCESSFUL with 10 warning(s) (13253 feature(s) output)
+2025-10-03 09:48:18|  72.7|  0.0|INFORM|FME Session Duration: 1 minute 15.5 seconds. (CPU: 65.8s user, 6.9s system)
+2025-10-03 09:48:18|  72.7|  0.0|INFORM|END - ProcessID: 34688, peak process memory usage: 3183968 kB, current process memory usage: 466340 kB
